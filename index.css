@@ -11,4 +11,5 @@ li{
 }
 body{
   background-image: url(http://cdn1.medicalnewstoday.com/content/images/articles/317/317695/a-woman-drinking-a-cup-of-coffee.jpg);
+  background-size: cover;
 }
