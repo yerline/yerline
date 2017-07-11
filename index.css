@@ -1,0 +1,14 @@
+h1{
+font-family: monospace;
+border: 10;
+font-size: 50;
+text-align: center;
+}
+li{
+  font-family: serif;
+  font-size: 30;
+  color: black;
+}
+body{
+  background-image: url(http://cdn1.medicalnewstoday.com/content/images/articles/317/317695/a-woman-drinking-a-cup-of-coffee.jpg);
+}

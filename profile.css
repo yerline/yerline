@@ -1,0 +1,31 @@
+h1{
+  font-size: 45;
+  text-align: center;
+  font-family: monospace;
+  color: saddlebrown;
+}
+h2{
+  font-family: serif;
+  font-size: 25;
+  color: burlywood;
+}
+p{
+  font-family: georgia;
+  color: antiquewhite;
+  font-size: 19;
+}
+ol{
+  font-size: 19;
+  color: antiquewhite;
+  font-family: georgia;
+
+}
+ul{
+  font-size: 19;
+  color: antiquewhite;
+  font-family: georgia;
+}
+body{
+  background-image: url(https://static.tumblr.com/ddd0d72dc981e5e29588c38bb8cc160e/314ggsg/aAEmtuc1i/tumblr_static_desktop-wallpaper-fall-colors121.jpg);
+  background-size: cover;
+}
